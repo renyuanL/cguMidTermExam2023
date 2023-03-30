@@ -4,7 +4,7 @@
 # 連同所需之文字檔 
 # "emma_zh.csv", "emma.txt", "_jy_神雕俠侶.txt", 
 # 可於此處下載：
-# HTTP://
+# https://github.com/renyuanL/cguMidTermExam2023
 
 import sys
 import random
